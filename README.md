@@ -1,6 +1,6 @@
 # Pedro Lucas Rezende ⌨
 
-Me chamo pPedro Lucas, tenho 18 anos e sou desenvolvedor júnior. Conclui meu ensino médio no Instituto Federal do Triângulo Mineiro - IFTM, juntamente com um curso técnico em IOT (Internet of Things).
+Me chamo Pedro Lucas, tenho 18 anos e sou desenvolvedor júnior. Conclui meu ensino médio no Instituto Federal do Triângulo Mineiro - IFTM, juntamente com um curso técnico em IOT (Internet of Things).
 Atualmente estou graduando o curso de Gestão da Informação na Universidade Federal de Uberlândia - UFU. Desde o começo do meu ensino médio, fiquei gamado pela área  de tecnologia e daí nao parei mais!
 Estou desde sempre, tentando buscar o melhor de mim, aperfeiçoar e aprender coisas novas todos os dias!
 
